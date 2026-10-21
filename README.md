@@ -4,6 +4,8 @@
 
 Live plate: https://mizcausevic-dev.github.io/microcapsule-self-healing-polymer-explainer/
 
+Repository: https://github.com/mizcausevic-dev/microcapsule-self-healing-polymer-explainer
+
 ## What this is
 
 An interactive anatomy plate for Microcapsule Self-Healing Polymer. Play, scrub, or jump the five stages. The same frame always draws the same picture.
